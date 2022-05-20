@@ -8,6 +8,6 @@ Known for its simplicity and the elegance of its rules, Toads-and-Frogs is usefu
 
 This is a solution for the case with 6 frogs, 3 on each side.
 
-Starting Position: F1 F2 F3 _ F4 F5 F6
-Goal Position: F4 F5 F6 _ F1 F2 F3
+Starting Position: F1 F2 F3 _ F4 F5 F6.
+Goal Position: F4 F5 F6 _ F1 F2 F3.
 
